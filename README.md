@@ -13,6 +13,7 @@
 - [HTML]
 - [CSS]
 
+
+![screencapture-127-0-0-1-5501-daejongsang-html-2022-02-19-01_02_59](https://user-images.githubusercontent.com/92587189/154718114-5e0633c7-9b9c-4907-9d70-f0ed23673b23.png)
 ![대종상mb](https://user-images.githubusercontent.com/92587189/154717550-1243c105-308a-4ea8-ac3e-307447d2acd8.png)
-![대종상pc](https://user-images.githubusercontent.com/92587189/154717554-844ad792-19fd-4262-a457-2ce87cbf0766.png)
 
